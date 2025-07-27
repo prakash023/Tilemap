@@ -24,7 +24,7 @@ analysis tasks.
 **Keywords**:Tilemap, regular grid, GIS, centroid-based assignment, geospatial analysis, thematic
 mapping, spatial visualization, RMS offset, GeoJSON, regionalization error.
 
-#Usage
+# Usage
 
 ## Clone / Download the Code
 Either download the code as a zip file or clone the code using `git clone https://github.com/prakash023/Tilemap.git`
