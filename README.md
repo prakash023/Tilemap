@@ -27,7 +27,7 @@ mapping, spatial visualization, RMS offset, GeoJSON, regionalization error.
 #Usage
 
 ## Clone / Download the Code
-Either download the code as a zip file or clone the code using `https://github.com/prakash023/Tilemap.git`
+Either download the code as a zip file or clone the code using `git clone https://github.com/prakash023/Tilemap.git`
 
 ## Setup / Prerequisites
 Packages?
