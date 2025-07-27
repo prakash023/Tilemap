@@ -30,9 +30,23 @@ mapping, spatial visualization, RMS offset, GeoJSON, regionalization error.
 Either download the code as a zip file or clone the code using `git clone https://github.com/prakash023/Tilemap.git`
 
 ## Setup / Prerequisites
-Packages?
-any other local setup?
-jupyter notebook?
+
+### Prerequisites
+The code can be run either locally on as a standalone python script or using jupyter notebook. Following programs and packages are required:
+1. Python3 (version 3.12 tested)
+2. Jupyter Notebook
+### Running using Jupyter Notebook
+** Optional **
+Use python virtual environment and ipykernel to select the appropriate virutal environment for jupyter notebook.
+
+1. Make sure the requirements are installed `pip3 install -r requirements.txt`
+2. Run jupyter notebook. `jupyter notebook`
+3. Click on the file `tilemap_implementation.ipynb`on the jupyter notebook web interface.
+
+
+### Running locally
+1. Make sure the requirements are installed.
+2. Run the python file Tilemap_Berlin.py
 
 ## Running Locally
 
