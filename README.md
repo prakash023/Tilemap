@@ -1,2 +1,30 @@
-# Tilemap
-This is a test on creating tilemap following the examples of https://gitlab.com/g2lab/pyeac and also Pf. Jochen  Schiewe. It creates Equal Area "Rectangle and hexagonal" shape tile  grid with the option of Districts name, ID and number. The tool is based on  Web Mercator (EPSG:3857). Lets the user to upload and made the changes. Use of scale factor lets the user to se the scale factor. 
+# Introduction
+This project serves as a repository for the code developed as a part of Master's thesis by Prakash Neupane titled "Title Here"
+
+# Abstract
+<paste abstract here>
+
+#Usage
+
+## Clone / Download the Code
+Either download the code as a zip file or clone the code using `git clone <repo name>`
+
+## Setup / Prerequisites
+Packages?
+any other local setup?
+jupyter notebook?
+
+## Running Locally
+
+## Upload GeoJSON file to process
+
+## Options
+- choose labels, etc.
+- Choose scaling factor
+- Exporting as GeoJSON after processing
+
+## Visualization
+
+
+
+## 
