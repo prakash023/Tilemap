@@ -1,5 +1,5 @@
 # Introduction
-This project serves as a repository for the code developed as a part of Master's thesis by Prakash Neupane titled "Conversion of irregular polygons into regular grid geometries - Berlin as anexample"
+This project serves as a repository for the code developed as a part of Master's thesis by Prakash Neupane titled "Conversion of irregular polygons into regular grid geometries - Berlin as an example"
 
 # Abstract
 The irregular shapes and sizes of administrative boundaries, regionalization error are a common
