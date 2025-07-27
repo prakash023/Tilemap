@@ -32,9 +32,11 @@ Either download the code as a zip file or clone the code using `git clone https:
 ## Setup / Prerequisites
 
 ### Prerequisites
-The code can be run either locally on as a standalone python script or using jupyter notebook. Following programs and packages are required:
+The code can be run using jupyter notebook. Following programs and packages are required:
 1. Python3 (version 3.12 tested)
 2. Jupyter Notebook
+
+
 ### Running using Jupyter Notebook
 ** Optional **
 Use python virtual environment and ipykernel to select the appropriate virutal environment for jupyter notebook.
@@ -44,9 +46,6 @@ Use python virtual environment and ipykernel to select the appropriate virutal e
 3. Click on the file `tilemap_implementation.ipynb`on the jupyter notebook web interface.
 
 
-### Running locally
-1. Make sure the requirements are installed.
-2. Run the python file `Tilemap_Berlin.py`
 
 ## Running Locally
 
