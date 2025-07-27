@@ -46,7 +46,7 @@ Use python virtual environment and ipykernel to select the appropriate virutal e
 
 ### Running locally
 1. Make sure the requirements are installed.
-2. Run the python file Tilemap_Berlin.py
+2. Run the python file `Tilemap_Berlin.py`
 
 ## Running Locally
 
