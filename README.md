@@ -33,7 +33,7 @@ Either download the code as a zip file or clone the code using `git clone https:
 
 ### Prerequisites
 The code can be run using jupyter notebook. Following programs and packages are required:
-1. Python3 (version 3.12 tested)
+1. Python3 (version 3.10 tested)
 2. Jupyter Notebook
 
 
@@ -42,22 +42,20 @@ The code can be run using jupyter notebook. Following programs and packages are 
 Use python virtual environment and ipykernel to select the appropriate virutal environment for jupyter notebook.
 
 1. Make sure the requirements are installed `pip3 install -r requirements.txt`
-2. Run jupyter notebook. `jupyter notebook`
-3. Click on the file `tilemap_implementation.ipynb`on the jupyter notebook web interface.
+  Run the code below to install required Libraries!
+ !pip install geopandas shapely pyproj fiona ipywidgets matplotlib-scalebar ipython --quiet
 
+2. Restart notebook( required only for the first time) --> necessary for ipywidgets!
+   Menu  → Kernel → Restart Kernel
 
+4. Run Code
+   Run the 2nd code from the cell -->  for interactive GUI
 
-## Running Locally
+5. Upload Geojson Data 
+6. Choose Label column as per the requirement by dropdown!   
+   
+7. Choose as per requirement Rectangle or Hexagon!
+8. Scale factor(optional) -  it helps for a better cover area
+9. Generate Tiles
+10. Export as a geojson file to use in GIS platforms!
 
-## Upload GeoJSON file to process
-
-## Options
-- choose labels, etc.
-- Choose scaling factor
-- Exporting as GeoJSON after processing
-
-## Visualization
-
-
-
-## 
